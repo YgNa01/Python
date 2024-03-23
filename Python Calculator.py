@@ -57,4 +57,4 @@ elif choise == '*':
      print(f'the result of mult is: {result}')
 
 else:
-     print('Myabe you didn`t obey the rules')
+     print('Maybe you didn`t obey the rules')
